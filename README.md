@@ -1,18 +1,12 @@
-### Hi there 👋
-![Adrien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrien&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrArtemi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🥦 Adrien Milcent
 
-<!--
-**DrArtemi/DrArtemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇫🇷 developer, when I have some free time I try to make small cool projects !
 
-Here are some ideas to get you started:
+You can reach me on my [twitter](https://twitter.com/Dr4rtemi) 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrArtemi&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Adrien's github stats](https://github-readme-stats.vercel.app/api?username=DrArtemi&count_private=true&show_icons=true&theme=calm)
+
+![](https://komarev.com/ghpvc/?username=DrArtemi&color=red)
