@@ -1,4 +1,4 @@
-### 🥦 Adrien Milcent
+### 🥦 Adrien
 
 🇫🇷 developer, when I have some free time I try to make small cool projects !
 
